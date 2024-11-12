@@ -1,0 +1,23 @@
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	background: rgb(206, 224, 224);
+	text-align: center;
+	overflow-x: hidden;
+}
+
+.jR3DCarouselGallery,.jR3DCarouselGalleryCustomeTemplate {
+	margin: 0 auto; /* optional - if want to center align */
+}
+
+.jR3DCarouselGalleryCustomeTemplate .captions{
+	position: relative;
+	padding: 4px 0;
+	bottom: 27px;
+	background: #1ca7ec;
+	display:block			
+}
+.jR3DCarouselGalleryCustomeTemplate a{
+	text-decoration: none;			
+}
